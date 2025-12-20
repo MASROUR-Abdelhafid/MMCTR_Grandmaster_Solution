@@ -7,7 +7,7 @@
 This project presents a **Grandmaster Hybrid Architecture** designed for the MMCTR competition. The solution moves beyond simple ID-based recommendation by integrating multimodal features (Visual & Textual) and advanced attention mechanisms.
 
 ## 🖼️ Architecture (End-to-End Pipeline)
-![Graphical Abstract](graphical_abstract.png)
+![Graphical Abstract](diagram.png)
 
 ## 🚀 Key Features
 * **Multimodal Embeddings:**
