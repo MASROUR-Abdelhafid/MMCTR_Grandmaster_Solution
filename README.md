@@ -36,7 +36,7 @@ The model was evaluated on the full test set.
 
 ## 📂 File Structure
 * `competition_MMCTR.ipynb`: The complete training and inference pipeline.
-* `submission_grandmaster.csv`: Final prediction file.
+* `prediction.csv`: Final prediction file.
 
 ---
-*University Project - 2024*
+*University Project - 2025*
